@@ -13,3 +13,11 @@ We were given some frontend tasks like removing one view and adding it as part o
 We started by having a meeting discussing our goals for the year and the project that we would work on. We then had to write it down clearly in a google document to make sure we understand everything.
 
 We had 2 Code reviews where I barely needed any pointers due to following all the guidelines set by the lead developer and my mentor. Some of these contained case issues like using camelcase for C# functions or having useless dead code. I however assisted a lot in helping the other interns with their code issues there.
+Service Account CRUD:
+<img width="941" alt="Service Accounts" src="https://github.com/ahmedryasser/Pepperdine-App-Dev-Internship-contributions/assets/56661044/29e55a15-8f02-4977-b0dc-0616165fe92f">
+
+Dependency CRUD:
+<img width="945" alt="Dependencies" src="https://github.com/ahmedryasser/Pepperdine-App-Dev-Internship-contributions/assets/56661044/5134693b-ed4c-4a92-8f8c-1fffd13d3fe2">
+
+Service Accounts and Dependencies Repostory Page (Display):
+<img width="454" alt="SA and DEP display" src="https://github.com/ahmedryasser/Pepperdine-App-Dev-Internship-contributions/assets/56661044/bec2b80e-4c8c-4adc-ac9b-1ad7e763014a">
